@@ -5,7 +5,7 @@ metadata:
   namespace: argocd
 spec: 
   source:
-    repoURL: https://github.com/Aditi336/ci_cd_pipeline_kub.git
+    repoURL: https://github.com/Aditi336/cd_k8s_manifest.git
     targetRevision: HEAD
     path: .
   destination:
