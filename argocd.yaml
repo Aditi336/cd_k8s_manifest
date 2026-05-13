@@ -7,7 +7,7 @@ spec:
   source:
     repoURL: https://github.com/Aditi336/cd_k8s_manifest.git
     targetRevision: HEAD
-    path: .
+    path: dev
   destination:
     server: https://kubernetes.default.svc
     namespace: default
