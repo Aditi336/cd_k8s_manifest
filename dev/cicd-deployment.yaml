@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: cicd-deployment
-        image: amulu874/index-html:19
+        image: amulu874/index-html:20
         resources:  
           limits:
             memory: "128Mi"
